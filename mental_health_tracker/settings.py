@@ -30,6 +30,8 @@ ALLOWED_HOSTS = ["localhost", "127.0.0.1", "adam-caldipawell-mentalhealthtracker
 
 # Application definition
 
+#test YML
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
