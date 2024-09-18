@@ -1,6 +1,6 @@
 from django.forms import ModelForm
 from main.models import MoodEntry
-#lalalala
+
 class MoodEntryForm(ModelForm):
     class Meta:
         model = MoodEntry
